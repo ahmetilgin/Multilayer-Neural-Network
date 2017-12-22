@@ -2,7 +2,7 @@ QT += core
 QT += gui
 
 CONFIG += c++11
-LIBS = -lglut
+LIBS = -lglut+
 TARGET = MultiCategory
 CONFIG += console
 CONFIG -= app_bundle
